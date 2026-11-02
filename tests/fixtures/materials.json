@@ -1,0 +1,15 @@
+{
+  "status": "ready",
+  "message": "These materials cover the processes described in your notes.",
+  "summary": [{ "text": "Photosynthesis converts light energy into chemical energy stored in glucose.", "sources": [1] }],
+  "concepts": [{ "text": "Chlorophyll absorbs light inside chloroplasts.", "sources": [1] }],
+  "definitions": [{ "term": "Chlorophyll", "meaning": "The green pigment in chloroplasts that absorbs light.", "sources": [1] }],
+  "flashcards": [
+    { "question": "What does photosynthesis produce to store chemical energy?", "answer": "Glucose.", "sources": [1] },
+    { "question": "Which pigment absorbs light?", "answer": "Chlorophyll.", "sources": [1] }
+  ],
+  "quiz": [
+    { "question": "Where does photosynthesis take place?", "options": ["Chloroplasts", "Only in roots", "Outside the plant", "Only in cell walls"], "correct_index": 0, "explanation": "The notes state that photosynthesis takes place in chloroplasts.", "simpler_example": "Imagine a chloroplast as a tiny workshop where light energy helps make sugar.", "sources": [1] },
+    { "question": "What pigment absorbs light?", "options": ["Glucose", "Chlorophyll", "Starch", "Cellulose"], "correct_index": 1, "explanation": "Chlorophyll is the green pigment that absorbs light.", "simpler_example": "Imagine chlorophyll as a light-catching net inside the workshop.", "sources": [1] }
+  ]
+}

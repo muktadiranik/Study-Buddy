@@ -1,0 +1,72 @@
+[
+  {
+    "id": "english-notebook",
+    "description": "A real open handwritten lecture notebook, including a second angled page",
+    "source": "https://commons.wikimedia.org/wiki/File:Notebook_with_english_handwriting.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Notebook_with_english_handwriting.jpg",
+    "author": "Lewis Ronald",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sha256": "182d11d76942772857599f3fccdd07a97bea85cc97ef43aadd41721089804f76",
+    "original_size": [2967, 4451],
+    "capture": "Real human handwriting; camera model unavailable in the file metadata",
+    "anchors": [
+      "History of uses",
+      "Every sign is an interpretation of another",
+      "The reality effect is in the detail"
+    ],
+    "excluded_reference": "An initially read phrase on the right page was ambiguous when checked against rectified original pixels and was removed from every comparison, including the baseline.",
+    "regions": [
+      {
+        "name": "left",
+        "corners": [
+          [5, 29],
+          [40, 29],
+          [59, 70],
+          [25, 76]
+        ],
+        "anchor_indices": [0, 1]
+      },
+      {
+        "name": "right",
+        "corners": [
+          [39, 29],
+          [71, 18],
+          [94, 66],
+          [58, 72]
+        ],
+        "anchor_indices": [2]
+      }
+    ],
+    "anchor_review": "Manually read from the original image and lossless detail crops before the improved run. Selected readable excerpts only; not a full transcription or overall accuracy score."
+  },
+  {
+    "id": "lg-notebook",
+    "description": "Real handwritten English notebook photographed in low light at an oblique angle",
+    "source": "https://commons.wikimedia.org/wiki/File:Notebook_with_pen,_August,_2019.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Notebook_with_pen%2C_August%2C_2019.jpg",
+    "author": "Phil Slattery",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sha256": "b7c42e819dc6b22ef5567414c80750fa5527aef54bab6db93c6bd14fac4d4b97",
+    "original_size": [3264, 2448],
+    "capture": "Original EXIF: LG Electronics, LM-X210APM (LG Phoenix 4)",
+    "anchors": [
+      "August 9, 2019",
+      "What are the govt's principles expressed in double-speak"
+    ],
+    "regions": [
+      {
+        "name": "right",
+        "corners": [
+          [36.5, 37],
+          [65, 29],
+          [99, 56],
+          [63, 73]
+        ],
+        "anchor_indices": [0, 1]
+      }
+    ],
+    "anchor_review": "Manually read from original pixels. Case, whitespace, hyphens and punctuation are ignored; abbreviations are not expanded. A body-text phrase initially considered for scoring was too ambiguous under closer inspection and was excluded from all stages. Only the clearer date and final question are scored; names and obscured passages are not scored."
+  }
+]
